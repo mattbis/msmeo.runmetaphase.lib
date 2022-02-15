@@ -6,7 +6,7 @@
 
 they are almost like hooks.. since they allow somebody to modify it with a modicum of knowledge and hook into the various things... most are like preprocessors.. 
 
-intended for configuration when metadata is concerned
+intended for configuration when metadata is concerned; the main reason i want this is when you start dealing with other languages and tooling its a big bull of mud of stuff... you can doit pretty eloquently but i cant help but get annoyed at duplicating anything, rather id define a logic model and then this generates everything.. it does exist, but here you can use your fav language instead... or a mixture... ( one reason why id do it )
 
 defs stack, run until destroyed, selectors have to be explicit and enabled.. but very powerful.. 
 
