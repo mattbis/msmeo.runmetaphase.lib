@@ -2,7 +2,7 @@
 
 ### swift reasoning without reading the previous public source...  testing my memory
 
-.. most of the extremely crazy arch i was thinking about; teh reason I like it is reducing the amount of code that deals with this.. into abstracts that are powerful... ( albeit somewhat obtuse to use at first )
+.. most of the extremely crazy arch i was thinking about; teh reason I like it is reducing the amount of code that deals with this.. into abstracts that are powerful... ( albeit somewhat obtuse to use at first ) ( yet are a lambda essentially )
 
 they are almost like hooks.. since they allow somebody to modify it with a modicum of knowledge and hook into the various things... most are like preprocessors.. 
 
