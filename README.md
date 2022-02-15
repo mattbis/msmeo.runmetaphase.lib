@@ -13,3 +13,4 @@ defs stack, run until destroyed, called often, selectors have to be explicit and
 i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... a standard for configuration to this power with meta programming would eb really useful since you could code around a lot of things that are not possible in a static file.. perhaps... and well have some kind of structure; ideally this woudl mean a lot of the tooling is kinda part of the .dev stuff so its not with anything in mind but everything needed for a slow build is possible..  
 
 only allows static definitions, everything is a definition or setting something prior .. as a machine, so its easily deconstructed..  with code that can reference the phase it runs in
+the pointers mean they only exist if they have a reason to exist... 
