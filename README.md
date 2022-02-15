@@ -4,3 +4,5 @@
 they are almost like hooks.. 
 
 defs stack, run until destroyed, selectors have to be explicit and enabled.. but very powerful.. 
+
+i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... 
