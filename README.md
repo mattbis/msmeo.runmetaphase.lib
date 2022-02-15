@@ -6,6 +6,8 @@
 
 they are almost like hooks.. since they allow somebody to modify it with a modicum of knowledge and hook into the various things... most are like preprocessors.. 
 
+intended for configuration when metadata is concerned
+
 defs stack, run until destroyed, selectors have to be explicit and enabled.. but very powerful.. 
 
 i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... 
