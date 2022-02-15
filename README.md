@@ -12,4 +12,4 @@ defs stack, run until destroyed, selectors have to be explicit and enabled.. but
 
 i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... 
 
-only allows static definitions, with code that can reference the phase it runs in
+only allows static definitions, everything is a definition or setting something prior .. as a machine, so its easily deconstructed..  with code that can reference the phase it runs in
