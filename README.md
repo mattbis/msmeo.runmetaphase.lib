@@ -10,6 +10,6 @@ intended for configuration when metadata is concerned; the main reason i want th
 
 defs stack, run until destroyed, called often, selectors have to be explicit and enabled.. but very powerful.. 
 
-i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... 
+i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... a standard for configuration to this power with meta programming would eb really useful since you could code around a lot of things that are not possible in a static file.. perhaps... and well have some kind of structure 
 
 only allows static definitions, everything is a definition or setting something prior .. as a machine, so its easily deconstructed..  with code that can reference the phase it runs in
