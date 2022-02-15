@@ -11,3 +11,5 @@ intended for configuration when metadata is concerned; the main reason i want th
 defs stack, run until destroyed, selectors have to be explicit and enabled.. but very powerful.. 
 
 i like making extremely configurable things... so you could entirely redefine parts of the tool logic easily... 
+
+only allows static definitions, with code that can reference the phase it runs in
